@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>icons/menu_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg</file>
+    </qresource>
+</RCC>
